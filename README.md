@@ -10,4 +10,5 @@
 
 <img src="Images/Path_Final.png">
 
+<br>
 The graphs were generated in Matlab with the algorithm outputs
